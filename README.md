@@ -4,4 +4,5 @@ Work I did during the data mine :) The Data Mine is a learning community where s
 # What I learned & Experience Acquired
 + Extensible Markup Language (XML)
 + How to scrape and parse websites
-+ Using PANDAS in a real-world setting
++ Using PANDAS in a real-world setting: reading CSV files, exploring them and understanding what they're about, and working with them
++ Cleaning data using PANDAS, plotting using Plotly to visualize trends in data, and removing rows, columns, specific entries in dataframes to get a better understanding of trends
